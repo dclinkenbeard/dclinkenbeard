@@ -11,7 +11,8 @@ I'm a computer science professor at [CSU Monterey Bay](https://csumb.edu), devel
 ### 🔭 Current Projects
 - 🕹️ Exploring creating a nonprofit game studio to help students publish real games
   - 🎮 **Rogue Dreams** – A turn-based roguelite with procedural generation
-  - 🚀 **NeoADMM** – Unity-based framework with Wave Function Collapse and collaborative diffusion
+  - 🚀 **NeoADMM** – Axmol based project for turn based strategy.
+- Exploring creating a non-profit for student advancement and work experience.
 - 📘 Writing grant proposals and curriculum on project-based CS education
 
 ### 💬 Topics I Enjoy
